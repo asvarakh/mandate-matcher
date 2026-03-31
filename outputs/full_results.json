@@ -1,0 +1,380 @@
+[
+  {
+    "company_name": "NovaBridge Analytics",
+    "geography": "North America",
+    "sector": "SaaS",
+    "stage": "Growth",
+    "mandate_type": "Minority Equity",
+    "revenue": 8500000,
+    "EBITDA": 1200000,
+    "capital_sought": 5000000,
+    "fee_model_openness": "high",
+    "fixed_fee_resistance": "low",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "high",
+    "engagement_fit_score": 3.0,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Summit Peak Capital",
+        "player_type": "Private Equity",
+        "match_score": 9.6
+      }
+    ]
+  },
+  {
+    "company_name": "TerraCore Energy",
+    "geography": "Europe",
+    "sector": "Energy",
+    "stage": "Late Stage",
+    "mandate_type": "Majority Equity",
+    "revenue": 42000000,
+    "EBITDA": 7800000,
+    "capital_sought": 25000000,
+    "fee_model_openness": "medium",
+    "fixed_fee_resistance": "medium",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "high",
+    "engagement_fit_score": 2.6,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Titan Equity Partners",
+        "player_type": "Private Equity",
+        "match_score": 9.6
+      },
+      {
+        "investor_name": "NordVest Partners",
+        "player_type": "Family Office",
+        "match_score": 9.55
+      },
+      {
+        "investor_name": "Cascade Renewables Fund",
+        "player_type": "Impact Fund",
+        "match_score": 6.62
+      }
+    ]
+  },
+  {
+    "company_name": "Apex Medtech",
+    "geography": "North America",
+    "sector": "Healthcare",
+    "stage": "Growth",
+    "mandate_type": "Minority Equity",
+    "revenue": 12000000,
+    "EBITDA": 2100000,
+    "capital_sought": 8000000,
+    "fee_model_openness": "high",
+    "fixed_fee_resistance": "low",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "high",
+    "engagement_fit_score": 3.0,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Meridian Growth Fund",
+        "player_type": "Venture Capital",
+        "match_score": 9.55
+      },
+      {
+        "investor_name": "Cornerstone Buyout Fund",
+        "player_type": "Private Equity",
+        "match_score": 5.45
+      }
+    ]
+  },
+  {
+    "company_name": "ClearPath Logistics",
+    "geography": "Asia",
+    "sector": "Logistics",
+    "stage": "Early Stage",
+    "mandate_type": "Minority Equity",
+    "revenue": 3200000,
+    "EBITDA": -400000,
+    "capital_sought": 2000000,
+    "fee_model_openness": "low",
+    "fixed_fee_resistance": "high",
+    "mandate_clarity": "low",
+    "process_discipline": "low",
+    "seriousness": "low",
+    "engagement_fit_score": 1.0,
+    "status": "Disqualified",
+    "disqualify_reason": "DISQUALIFIED: Negative EBITDA + low seriousness",
+    "top_matches": []
+  },
+  {
+    "company_name": "Vortex Fintech",
+    "geography": "North America",
+    "sector": "Fintech",
+    "stage": "Growth",
+    "mandate_type": "Majority Equity",
+    "revenue": 18000000,
+    "EBITDA": 3600000,
+    "capital_sought": 12000000,
+    "fee_model_openness": "high",
+    "fixed_fee_resistance": "low",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "high",
+    "engagement_fit_score": 3.0,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Orion Capital Group",
+        "player_type": "Private Equity",
+        "match_score": 9.6
+      },
+      {
+        "investor_name": "Summit Peak Capital",
+        "player_type": "Private Equity",
+        "match_score": 9.1
+      }
+    ]
+  },
+  {
+    "company_name": "MegaScale Manufacturing",
+    "geography": "Europe",
+    "sector": "Industrials",
+    "stage": "Late Stage",
+    "mandate_type": "Full Sale",
+    "revenue": 95000000,
+    "EBITDA": 14200000,
+    "capital_sought": 80000000,
+    "fee_model_openness": "medium",
+    "fixed_fee_resistance": "medium",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "high",
+    "engagement_fit_score": 2.6,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Titan Equity Partners",
+        "player_type": "Private Equity",
+        "match_score": 9.6
+      },
+      {
+        "investor_name": "NordVest Partners",
+        "player_type": "Family Office",
+        "match_score": 9.55
+      }
+    ]
+  },
+  {
+    "company_name": "Drift Commerce",
+    "geography": "North America",
+    "sector": "E-commerce",
+    "stage": "Early Stage",
+    "mandate_type": "Minority Equity",
+    "revenue": 1800000,
+    "EBITDA": -200000,
+    "capital_sought": 1500000,
+    "fee_model_openness": "low",
+    "fixed_fee_resistance": "high",
+    "mandate_clarity": "low",
+    "process_discipline": "low",
+    "seriousness": "medium",
+    "engagement_fit_score": 1.2,
+    "status": "Disqualified",
+    "disqualify_reason": "DISQUALIFIED: Low mandate clarity AND low process discipline",
+    "top_matches": []
+  },
+  {
+    "company_name": "SkyBridge Construction",
+    "geography": "Middle East",
+    "sector": "Real Estate",
+    "stage": "Growth",
+    "mandate_type": "Majority Equity",
+    "revenue": 22000000,
+    "EBITDA": 3100000,
+    "capital_sought": 15000000,
+    "fee_model_openness": "medium",
+    "fixed_fee_resistance": "low",
+    "mandate_clarity": "medium",
+    "process_discipline": "medium",
+    "seriousness": "high",
+    "engagement_fit_score": 2.4,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Eastern Bridge Fund",
+        "player_type": "Private Equity",
+        "match_score": 9.5
+      }
+    ]
+  },
+  {
+    "company_name": "LumenBio Sciences",
+    "geography": "Europe",
+    "sector": "Biotech",
+    "stage": "Early Stage",
+    "mandate_type": "Minority Equity",
+    "revenue": 5500000,
+    "EBITDA": -800000,
+    "capital_sought": 4000000,
+    "fee_model_openness": "high",
+    "fixed_fee_resistance": "low",
+    "mandate_clarity": "medium",
+    "process_discipline": "medium",
+    "seriousness": "medium",
+    "engagement_fit_score": 2.4,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Meridian Growth Fund",
+        "player_type": "Venture Capital",
+        "match_score": 8.05
+      }
+    ]
+  },
+  {
+    "company_name": "Granite Capital Partners",
+    "geography": "North America",
+    "sector": "Financial Services",
+    "stage": "Late Stage",
+    "mandate_type": "Full Sale",
+    "revenue": 60000000,
+    "EBITDA": 11000000,
+    "capital_sought": 45000000,
+    "fee_model_openness": "high",
+    "fixed_fee_resistance": "low",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "high",
+    "engagement_fit_score": 3.0,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Orion Capital Group",
+        "player_type": "Private Equity",
+        "match_score": 9.6
+      },
+      {
+        "investor_name": "Cornerstone Buyout Fund",
+        "player_type": "Private Equity",
+        "match_score": 9.6
+      }
+    ]
+  },
+  {
+    "company_name": "PinPoint EdTech",
+    "geography": "Asia",
+    "sector": "Education",
+    "stage": "Growth",
+    "mandate_type": "Minority Equity",
+    "revenue": 9000000,
+    "EBITDA": 900000,
+    "capital_sought": 6000000,
+    "fee_model_openness": "medium",
+    "fixed_fee_resistance": "medium",
+    "mandate_clarity": "medium",
+    "process_discipline": "medium",
+    "seriousness": "medium",
+    "engagement_fit_score": 2.0,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "BlueStar Ventures",
+        "player_type": "Venture Capital",
+        "match_score": 9.55
+      },
+      {
+        "investor_name": "Pacific Rim Ventures",
+        "player_type": "Venture Capital",
+        "match_score": 9.2
+      }
+    ]
+  },
+  {
+    "company_name": "OmniRetail Group",
+    "geography": "Europe",
+    "sector": "Retail",
+    "stage": "Late Stage",
+    "mandate_type": "Majority Equity",
+    "revenue": 35000000,
+    "EBITDA": 4200000,
+    "capital_sought": 20000000,
+    "fee_model_openness": "high",
+    "fixed_fee_resistance": "low",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "high",
+    "engagement_fit_score": 3.0,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "NordVest Partners",
+        "player_type": "Family Office",
+        "match_score": 9.55
+      }
+    ]
+  },
+  {
+    "company_name": "SolArc Renewables",
+    "geography": "North America",
+    "sector": "Energy",
+    "stage": "Growth",
+    "mandate_type": "Minority Equity",
+    "revenue": 14000000,
+    "EBITDA": 2800000,
+    "capital_sought": 10000000,
+    "fee_model_openness": "high",
+    "fixed_fee_resistance": "low",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "high",
+    "engagement_fit_score": 3.0,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "Cascade Renewables Fund",
+        "player_type": "Impact Fund",
+        "match_score": 9.6
+      }
+    ]
+  },
+  {
+    "company_name": "ZenStack DevTools",
+    "geography": "Asia",
+    "sector": "SaaS",
+    "stage": "Early Stage",
+    "mandate_type": "Minority Equity",
+    "revenue": 2100000,
+    "EBITDA": 100000,
+    "capital_sought": 3000000,
+    "fee_model_openness": "medium",
+    "fixed_fee_resistance": "medium",
+    "mandate_clarity": "high",
+    "process_discipline": "high",
+    "seriousness": "medium",
+    "engagement_fit_score": 2.4,
+    "status": "Qualified",
+    "disqualify_reason": null,
+    "top_matches": [
+      {
+        "investor_name": "BlueStar Ventures",
+        "player_type": "Venture Capital",
+        "match_score": 9.55
+      },
+      {
+        "investor_name": "Pacific Rim Ventures",
+        "player_type": "Venture Capital",
+        "match_score": 9.5
+      }
+    ]
+  }
+]
