@@ -1,0 +1,11 @@
+investor_name,player_type,geography_focus,sector_focus,stage_focus,ticket_size_min,ticket_size_max,revenue_range_min,revenue_range_max,control_preference,relationship_strength
+Summit Peak Capital,Private Equity,North America,SaaS;Fintech,Growth;Late Stage,5000000,30000000,5000000,50000000,minority,strong
+Meridian Growth Fund,Venture Capital,North America;Europe,Healthcare;Biotech,Growth,3000000,15000000,3000000,20000000,minority,medium
+Titan Equity Partners,Private Equity,Europe,Industrials;Energy,Late Stage,20000000,100000000,30000000,150000000,majority,strong
+Orion Capital Group,Private Equity,North America,Fintech;Financial Services,Growth;Late Stage,10000000,60000000,10000000,80000000,majority,strong
+BlueStar Ventures,Venture Capital,Asia,SaaS;Education;E-commerce,Early Stage;Growth,1000000,8000000,1000000,15000000,minority,medium
+Eastern Bridge Fund,Private Equity,Middle East;Asia,Real Estate;Logistics,Growth;Late Stage,10000000,40000000,15000000,60000000,majority,weak
+NordVest Partners,Family Office,Europe,Energy;Retail;Industrials,Late Stage,15000000,80000000,20000000,100000000,majority,medium
+Cascade Renewables Fund,Impact Fund,North America;Europe,Energy,Growth,5000000,20000000,8000000,30000000,minority,strong
+Pacific Rim Ventures,Venture Capital,Asia,SaaS;Fintech;Education,Early Stage;Growth,500000,5000000,500000,10000000,minority,weak
+Cornerstone Buyout Fund,Private Equity,North America;Europe,Financial Services;Healthcare,Late Stage,30000000,120000000,40000000,150000000,majority,strong

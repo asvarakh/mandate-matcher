@@ -1,0 +1,15 @@
+company_name,geography,sector,stage,mandate_type,revenue,EBITDA,capital_sought,fee_model_openness,fixed_fee_resistance,mandate_clarity,materials_quality,founder_responsiveness,process_discipline,seriousness
+NovaBridge Analytics,North America,SaaS,Growth,Minority Equity,8500000,1200000,5000000,high,low,high,high,high,high,high
+TerraCore Energy,Europe,Energy,Late Stage,Majority Equity,42000000,7800000,25000000,medium,medium,high,high,medium,high,high
+Apex Medtech,North America,Healthcare,Growth,Minority Equity,12000000,2100000,8000000,high,low,high,high,high,high,high
+ClearPath Logistics,Asia,Logistics,Early Stage,Minority Equity,3200000,-400000,2000000,low,high,low,low,low,low,low
+Vortex Fintech,North America,Fintech,Growth,Majority Equity,18000000,3600000,12000000,high,low,high,high,high,high,high
+MegaScale Manufacturing,Europe,Industrials,Late Stage,Full Sale,95000000,14200000,80000000,medium,medium,high,medium,medium,high,high
+Drift Commerce,North America,E-commerce,Early Stage,Minority Equity,1800000,-200000,1500000,low,high,low,low,low,low,medium
+SkyBridge Construction,Middle East,Real Estate,Growth,Majority Equity,22000000,3100000,15000000,medium,low,medium,medium,high,medium,high
+LumenBio Sciences,Europe,Biotech,Early Stage,Minority Equity,5500000,-800000,4000000,high,low,medium,high,medium,medium,medium
+Granite Capital Partners,North America,Financial Services,Late Stage,Full Sale,60000000,11000000,45000000,high,low,high,high,high,high,high
+PinPoint EdTech,Asia,Education,Growth,Minority Equity,9000000,900000,6000000,medium,medium,medium,medium,medium,medium,medium
+OmniRetail Group,Europe,Retail,Late Stage,Majority Equity,35000000,4200000,20000000,high,low,high,high,high,high,high
+SolArc Renewables,North America,Energy,Growth,Minority Equity,14000000,2800000,10000000,high,low,high,high,high,high,high
+ZenStack DevTools,Asia,SaaS,Early Stage,Minority Equity,2100000,100000,3000000,medium,medium,high,medium,high,high,medium
